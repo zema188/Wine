@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'Vetrino';
+    src: url('Vetrino.ttf');
+    src: local('Vetrino Regular'), local('Vetrino Regular'),
+	    url('Vetrino.ttf') format('truetype');
+	font-weight: 400;
+	font-style: normal;
+}
